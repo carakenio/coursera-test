@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="English">
+<head>
+
+  <meta charset="utf-8">
+  <title>Sampling and reconstruction of a sinusoidal signal</title>
+  </head>
+  <body>
+  In this article we’ll sample the continuous-time signal x(t) with sampling period T. We will obtain x[n].
+  </body>
+
+</html>
